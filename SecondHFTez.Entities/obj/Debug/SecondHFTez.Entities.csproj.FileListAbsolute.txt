@@ -1,0 +1,15 @@
+c:\users\erdem\source\repos\SecondHFTez\SecondHFTez.Entities\bin\Debug\SecondHFTez.Entities.dll
+c:\users\erdem\source\repos\SecondHFTez\SecondHFTez.Entities\bin\Debug\SecondHFTez.Entities.pdb
+c:\users\erdem\source\repos\SecondHFTez\SecondHFTez.Entities\bin\Debug\SecondHFTez.Core.dll
+c:\users\erdem\source\repos\SecondHFTez\SecondHFTez.Entities\bin\Debug\SecondHFTez.Core.pdb
+c:\users\erdem\source\repos\SecondHFTez\SecondHFTez.Entities\obj\Debug\SecondHFTez.Entities.csprojResolveAssemblyReference.cache
+c:\users\erdem\source\repos\SecondHFTez\SecondHFTez.Entities\obj\Debug\SecondHFTez.Entities.csproj.CoreCompileInputs.cache
+c:\users\erdem\source\repos\SecondHFTez\SecondHFTez.Entities\obj\Debug\SecondHFTez.Entities.dll
+c:\users\erdem\source\repos\SecondHFTez\SecondHFTez.Entities\obj\Debug\SecondHFTez.Entities.pdb
+c:\users\erdem\source\repos\SecondHFTez\SecondHFTez.Entities\bin\Debug\EntityFramework.dll
+c:\users\erdem\source\repos\SecondHFTez\SecondHFTez.Entities\bin\Debug\SecondHFTez.Core.dll.config
+c:\users\erdem\source\repos\SecondHFTez\SecondHFTez.Entities\bin\Debug\EntityFramework.xml
+C:\Users\Erdem\source\repos\SecondHFTez\SecondHFTez.Entities\bin\Debug\FluentValidation.dll
+C:\Users\Erdem\source\repos\SecondHFTez\SecondHFTez.Entities\bin\Debug\PostSharp.dll
+C:\Users\Erdem\source\repos\SecondHFTez\SecondHFTez.Entities\bin\Debug\FluentValidation.xml
+C:\Users\Erdem\source\repos\SecondHFTez\SecondHFTez.Entities\bin\Debug\PostSharp.xml

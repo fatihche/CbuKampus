@@ -1,0 +1,17 @@
+C:\Users\Erdem\source\repos\SecondHFTez\SecondHFTez.WebApi\bin\SecondHFTez.WebApi.dll.config
+C:\Users\Erdem\source\repos\SecondHFTez\SecondHFTez.WebApi\bin\SecondHFTez.WebApi.dll
+C:\Users\Erdem\source\repos\SecondHFTez\SecondHFTez.WebApi\bin\SecondHFTez.WebApi.pdb
+C:\Users\Erdem\source\repos\SecondHFTez\SecondHFTez.WebApi\bin\Microsoft.CodeDom.Providers.DotNetCompilerPlatform.dll
+C:\Users\Erdem\source\repos\SecondHFTez\SecondHFTez.WebApi\bin\Newtonsoft.Json.dll
+C:\Users\Erdem\source\repos\SecondHFTez\SecondHFTez.WebApi\bin\System.Net.Http.Formatting.dll
+C:\Users\Erdem\source\repos\SecondHFTez\SecondHFTez.WebApi\bin\System.Web.Http.dll
+C:\Users\Erdem\source\repos\SecondHFTez\SecondHFTez.WebApi\bin\System.Web.Http.WebHost.dll
+C:\Users\Erdem\source\repos\SecondHFTez\SecondHFTez.WebApi\bin\Microsoft.CodeDom.Providers.DotNetCompilerPlatform.xml
+C:\Users\Erdem\source\repos\SecondHFTez\SecondHFTez.WebApi\bin\Newtonsoft.Json.xml
+C:\Users\Erdem\source\repos\SecondHFTez\SecondHFTez.WebApi\bin\System.Net.Http.Formatting.xml
+C:\Users\Erdem\source\repos\SecondHFTez\SecondHFTez.WebApi\bin\System.Web.Http.xml
+C:\Users\Erdem\source\repos\SecondHFTez\SecondHFTez.WebApi\bin\System.Web.Http.WebHost.xml
+C:\Users\Erdem\source\repos\SecondHFTez\SecondHFTez.WebApi\obj\Debug\SecondHFTez.WebApi.csprojResolveAssemblyReference.cache
+C:\Users\Erdem\source\repos\SecondHFTez\SecondHFTez.WebApi\obj\Debug\SecondHFTez.WebApi.csproj.CoreCompileInputs.cache
+C:\Users\Erdem\source\repos\SecondHFTez\SecondHFTez.WebApi\obj\Debug\SecondHFTez.WebApi.dll
+C:\Users\Erdem\source\repos\SecondHFTez\SecondHFTez.WebApi\obj\Debug\SecondHFTez.WebApi.pdb
